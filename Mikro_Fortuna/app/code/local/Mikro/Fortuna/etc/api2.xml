@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+	<api2>
+		<resources>
+			<product>
+				<attributes>
+					<updated_at>Updated At</updated_at>
+				</attributes>
+			</product>
+		</resources>
+	</api2>
+</config>
